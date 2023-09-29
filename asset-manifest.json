@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/simon-react-ts/static/css/main.192fa2f7.css",
-    "main.js": "/simon-react-ts/static/js/main.64a950f3.js",
+    "main.css": "/simon-react-ts/static/css/main.0adf92c5.css",
+    "main.js": "/simon-react-ts/static/js/main.237711a5.js",
     "static/media/Pngtree—backg.jpg": "/simon-react-ts/static/media/Pngtree—backg.21b0479004937039bf7a.jpg",
     "index.html": "/simon-react-ts/index.html",
-    "main.192fa2f7.css.map": "/simon-react-ts/static/css/main.192fa2f7.css.map",
-    "main.64a950f3.js.map": "/simon-react-ts/static/js/main.64a950f3.js.map"
+    "main.0adf92c5.css.map": "/simon-react-ts/static/css/main.0adf92c5.css.map",
+    "main.237711a5.js.map": "/simon-react-ts/static/js/main.237711a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.192fa2f7.css",
-    "static/js/main.64a950f3.js"
+    "static/css/main.0adf92c5.css",
+    "static/js/main.237711a5.js"
   ]
 }
