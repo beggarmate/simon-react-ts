@@ -1,4 +1,4 @@
-function returnRandomNumber(): number {
+function returnRandomNumber(systemSteps: number[]): number {
   let randomNumber = Math.random();
   randomNumber =
     randomNumber <= 0.25
@@ -8,6 +8,12 @@ function returnRandomNumber(): number {
       : randomNumber <= 0.75
       ? 3
       : 4;
+  if (
+    systemSteps.length !== 0 &&
+    randomNumber === systemSteps[systemSteps.length - 1]
+  ) {
+    return returnRandomNumber(systemSteps);
+  }
   return randomNumber;
 }
 
